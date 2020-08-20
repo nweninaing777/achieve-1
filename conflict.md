@@ -1,1 +1,1 @@
-write conflict a
+b branch  write
